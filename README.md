@@ -1,2 +1,2 @@
 # ct_leaf_seg
-version control for python deep learning testing 
+python deep learning for segmentation of leaf CT scans 
